@@ -1,7 +1,7 @@
 # Docker Nginx + PageSpeed + Certbot
 
 This docker image based on Debian Stretch linux distribution.
-Project goal is an easy to build docker image of latest Nginx web server with Google PageSpeed and Geo IP modules.
+Project goal is an easy to build docker image of latest Nginx web server with Google PageSpeed and Certbot modules.
 
 ## PageSpeed
 
